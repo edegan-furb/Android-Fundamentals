@@ -1,6 +1,32 @@
 # Contact Book
+<p>
+  <a href="https://github.com/edegan-furb/Android-Fundamentals/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/edegan-furb/Android-Fundamentals" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/edegan-furb/Android-Fundamentals" alt="last update" />
+  </a>
+  <a href="https://github.com/edegan-furb/Android-Fundamentals/network/members">
+    <img src="https://img.shields.io/github/forks/edegan-furb/Android-Fundamentals" alt="forks" />
+  </a>
+  <a href="https://github.com/edegan-furb/Android-Fundamentals/stargazers">
+    <img src="https://img.shields.io/github/stars/edegan-furb/Android-Fundamentals" alt="stars" />
+  </a>
+</p>
 
+<p align="center">
+    <img src="https://www.alura.com.br/assets/api/cursos/android-sua-primeira-app-mobile.svg" width="150"/>
+</p >
+
+<table>
+<tr>
+<td>
+  <a>
 Android project that simulates a student contact book
+  </a>
+</td>
+</tr>
+</table>
 
 ## Project Features ✨
 
