@@ -1,5 +1,5 @@
 # Contact Book
-<p>
+<p align="center">
   <a href="https://github.com/edegan-furb/Android-Fundamentals/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/Android-Fundamentals" alt="contributors" />
   </a>
@@ -18,7 +18,7 @@
     <img src="https://www.alura.com.br/assets/api/cursos/android-sua-primeira-app-mobile.svg" width="150"/>
 </p >
 
-<table>
+<table align="center">
 <tr>
 <td>
   <a>
