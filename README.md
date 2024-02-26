@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<p>
-    <img src="https://www.alura.com.br/assets/api/cursos/android-sua-primeira-app-mobile.svg" width="150"/>
+<p align="center">
+    <img src="https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg" width="150"/>
 </p >
 
 Android project that simulates a student contact book
