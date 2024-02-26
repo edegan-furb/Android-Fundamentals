@@ -19,11 +19,11 @@
 </p >
 
 <table>
-  <td>
-    <tr>
+  <tr>
+    <td>
       Android project that simulates a student contact book
-    </tr>
-  </td>
+    </td>
+  </tr>
 </table>
 
 ## Project Features ✨
