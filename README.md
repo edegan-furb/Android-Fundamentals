@@ -1,26 +1,24 @@
-![android-java-fundamentos](https://user-images.githubusercontent.com/8989346/136828626-bb3eb043-49b1-473e-8352-eb18d9f8df34.png)
+# Contact Book
 
-# Agenda
+Android project that simulates a student contact book
 
-Projeto Android que simula uma agenda de contatos de alunos e alunas
+## Project Features ✨
 
-## 🔨 Funcionalidades do projeto
-
-O projeto é capaz de cadastrar contatos com nome, telefone e e-mail e faz a listagem dos mesmo apresentando apenas o nome:
+The project is able to register contacts with name, telephone number and email and lists them showing only the name:
 
 ![agenda-sample](https://user-images.githubusercontent.com/8989346/136827565-a6278e24-19bb-480b-b34e-0740b8455e6f.gif)
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Techniques and technologies used 🏗️
 
-O App foi desenvolvido no Android Studio com a API 28 e foi atualizado para a API 30 do Android. Segue abaixo as técnicas e tecnologias utilizadas:
+The App was developed in Android Studio. Below are the techniques and technologies used:
 
-- `Activities`: componente do Android para representar cada tela
-- `RelativeLayout`: ViewGroup para criar a lista de alunos
-- `LinearLayout`: ViewGroup para criar a tela de formulário de contato 
-- `Views do Android`: componentes visuais do Android para apresentar na tela:
-    - `TextView`: apresentar o conteúdo em texto
-    - `ListView`: criação e apresentação de uma lista dinâmica
-    - `FloatingActionButton`: botão flutuante para acessar a tela de formulário
-    - `EditText`: campo para receber entrada do usuário
-    - `Button`: botão para cadastrar novos contatos
-- `DAO`: padrão de projeto para armazenar e buscar dados
+- `Activities`: Android component to represent each screen
+- `RelativeLayout`: ViewGroup to create the list of students
+- `LinearLayout`: ViewGroup to create the contact form screen
+- `Views do Android`: Android visual components to present on the screen:
+    - `TextView`: present content in text
+    - `ListView`: creating and presenting a dynamic list
+    - `FloatingActionButton`: floating button to access the form screen
+    - `EditText`: field to receive user input
+    - `Button`: button to register new contacts
+- `DAO`: design pattern for storing and fetching data
