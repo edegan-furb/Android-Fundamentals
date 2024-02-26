@@ -1,6 +1,5 @@
-<p align="center">
 # Contact Book
-<p>
+<p align="center">
   <a href="https://github.com/edegan-furb/Android-Fundamentals/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/edegan-furb/Android-Fundamentals" alt="contributors" />
   </a>
@@ -21,7 +20,6 @@
 
 Android project that simulates a student contact book
 
-</p >
 
 ## Project Features ✨
 
