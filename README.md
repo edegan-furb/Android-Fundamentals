@@ -18,8 +18,13 @@
     <img src="https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg" width="750"/>
 </p >
 
-Android project that simulates a student contact book
-
+<table>
+  <td>
+    <tr>
+      Android project that simulates a student contact book
+    </tr>
+  </td>
+</table>
 
 ## Project Features ✨
 
