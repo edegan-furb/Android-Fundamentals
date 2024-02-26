@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg" width="150"/>
+    <img src="https://www.android.com/static/2016/img/aife/homepage/history/2019_pt_br_1x.jpg" width="500"/>
 </p >
 
 Android project that simulates a student contact book
